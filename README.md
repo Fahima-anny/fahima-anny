@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="360" src="https://i.ibb.co.com/vjLZg5s/freepik-upload-33195.jpg"  />
+  <img height="400" src="https://i.ibb.co.com/vjLZg5s/freepik-upload-33195.jpg"  />
 </div>
 
 ###
@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fahima-anny.fahima-anny&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fahima-anny.fahima-anny&right_color=aqua"  />
 </div>
 
 ###
