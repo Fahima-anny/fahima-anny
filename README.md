@@ -1,10 +1,28 @@
+<h2 align="left">Hi there 👋! !  Welcome to my Github Profile</h2>
+
+###
+
 <div align="center">
   <img height="360" src="https://i.ibb.co.com/vjLZg5s/freepik-upload-33195.jpg"  />
 </div>
 
 ###
 
-<h2 align="left">Hi there 👋! My name is Fahima  Anny</h2>
+<h1 align="left">Fahima  Anny   - Frontend Web Developer</h1>
+
+###
+
+<h4 align="left">About Me</h4>
+
+###
+
+<p align="left">Hi, I'm a passionate developer from Bangladesh. I enjoy building creative web applications and exploring new technologies to solve real-world problems.  When I code I can feel my inner self. The continuous ups and downs keeps me attached to this passion, As I always loved to explore new things .<br><br>- 🌱 I’m currently exploring **Authorization System**.  <br>- 🌐 I’m working on a **Full-stack Website**.  <br>- 🚀 Open to collaborating on exciting projects.</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/fahima-anny/fahima-anny/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -27,12 +45,6 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fahima-anny/fahima-anny/output/snake.svg" alt="Snake animation" />
 
 ###
 
