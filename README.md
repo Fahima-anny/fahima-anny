@@ -22,8 +22,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fahima-anny/fahima-anny/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
