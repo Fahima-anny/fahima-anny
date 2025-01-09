@@ -73,7 +73,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  /> -->
 </div>
 
 ###
