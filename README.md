@@ -36,8 +36,6 @@
 
 ###
 
-<h2 align="center">Connect With Me <img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20on%20LinkedIn&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="Connect with me on LinkedIn" />
