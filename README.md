@@ -37,6 +37,12 @@
 ###
 
 <div align="center">
+    <a href="https://wa.me/+880 1601-608603" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=Chat%20on%20WhatsApp&color=25D366&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on WhatsApp" />
+  </a>
+  <a href="https://www.facebook.com/fahima.akter.577750/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=Follow%20me%20on%20Facebook&color=1877F2&logoColor=white&style=for-the-badge" height="40" alt="Follow me on Facebook" />
+  </a>
   <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20on%20LinkedIn&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="Connect with me on LinkedIn" />
   </a>
@@ -49,12 +55,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fahima.info03@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email%20me&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Email me at fahima.info03@gmail.com" />
 </a>
-  <a href="https://wa.me/+880 1601-608603" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=Chat%20on%20WhatsApp&color=25D366&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/fahima.akter.577750/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=Follow%20me%20on%20Facebook&color=1877F2&logoColor=white&style=for-the-badge" height="40" alt="Follow me on Facebook" />
-  </a>
+
 </div>
 
 
