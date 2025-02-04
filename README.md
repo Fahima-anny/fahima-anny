@@ -26,7 +26,9 @@
   
 ###
   
- - 🌱 I’m currently exploring **Authorization System**.  <br>- 🌐 I’m working on a **Full-stack Website**.  <br>- 🚀 Open to collaborating on exciting projects.</p>
+ - 🌱 I’m currently exploring **Authorization System**.  
+ - 🌐 I’m working on a **Full-stack Website**.  
+ - 🚀 Open to collaborating on exciting projects.</p>
 
 ###
 
