@@ -12,6 +12,11 @@
 
 ###
 
+<h3 align="left">About Me</h3>
+
+
+###
+
 <p align="left">Hi, I'm a passionate developer from Bangladesh. I enjoy building creative web applications and exploring new technologies to solve real-world problems.  When I code I can feel my inner self. The continuous ups and downs keeps me attached to this passion, As I always loved to explore new things .<br>
 
 
