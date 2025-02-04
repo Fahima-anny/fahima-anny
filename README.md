@@ -30,7 +30,7 @@
 
 
 ###
-<p align="center"> <a href="https://github.com/fahima-anny/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahima-anny&row=1&column=6&theme=onedark" alt="fahima-anny" /></a> </p>
+<p align="center"> <a href="https://github.com/fahima-anny/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahima-anny&row=1&column=6&theme=gotham" alt="fahima-anny" /></a> </p>
 
 ###
 <h2 align="center">Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
