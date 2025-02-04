@@ -102,14 +102,16 @@
 </div>
 
 ###
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fahima-anny&show_icons=true&theme=gotham" alt="fahima-anny" />
+
 
 ###
 
 <div align="center">
 <!--   <img src="https://streak-stats.demolab.com?user=fahima-anny&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fahima-anny&show_icons=true&theme=gotham" alt="fahima-anny" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahima-anny&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=gotham&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahima-anny&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=gotham&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 
