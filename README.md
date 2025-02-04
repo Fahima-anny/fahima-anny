@@ -26,10 +26,10 @@
   
 ###
   
- - 🌱 I’m currently exploring **Authorization System**.  
- - 🌐 I’m working on a **Full-stack Website**.  
+ - 🌱 I’m currently exploring **Next js.**.  
+ - 🌐 I’m working on a **MERN-stack Website**.  
  - 🚀 Open to collaborating on exciting projects.</p>
-
+ - 📫 Reach me at **fahima.info03@gmail.com**  
 
 ###
 <h2 align="center">Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
@@ -41,15 +41,31 @@
  <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
  </a>
-   
+
+    <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+ </a>
+
+   <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+</a>
+
+         <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-<!--   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  /> -->
+  </a>
+
+    <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-<!--   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="visualstudio logo"  /> -->
+  </a>
+
+      <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+</a>
+
+    <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+</a>
+  
 </div>
 
 ###
