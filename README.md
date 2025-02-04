@@ -46,9 +46,9 @@
   <a href="https://discord.com/users/your-discord-id" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Chat%20on%20Discord&color=7289DA&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on Discord" />
   </a>
-  <a href="mailto:fahima.info03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email%20me&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Email me at fahima.info03@gmail.com" />
-  </a>
+<a href="mailto:fahima.info03@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email%20me&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Email me at fahima.info03@gmail.com" />
+</a>
   <a href="https://wa.me/+880 1601-608603" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=Chat%20on%20WhatsApp&color=25D366&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on WhatsApp" />
   </a>
