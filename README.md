@@ -20,15 +20,18 @@
 <p align="left">Hi, I'm a passionate developer from Bangladesh. I enjoy building creative web applications and exploring new technologies to solve real-world problems.  When I code I can feel my inner self. The continuous ups and downs keeps me attached to this passion, As I always loved to explore new things .<br>
 
 
-###
-<p align="center"> <a href="https://github.com/fahima-anny/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahima-anny&row=1&column=6&theme=onedark" alt="fahima-anny" /></a> </p>
-
   
 ###
   
  - 🌱 I’m currently exploring **Authorization System**.  
  - 🌐 I’m working on a **Full-stack Website**.  
  - 🚀 Open to collaborating on exciting projects.</p>
+
+
+
+###
+<p align="center"> <a href="https://github.com/fahima-anny/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahima-anny&row=1&column=6&theme=onedark" alt="fahima-anny" /></a> </p>
+
 
 ###
 
