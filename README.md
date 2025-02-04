@@ -36,6 +36,34 @@
 
 ###
 
+<h2 align="center">Connect With Me <img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20on%20LinkedIn&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="Connect with me on LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Follow%20me%20on%20Twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="40" alt="Follow me on Twitter" />
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Chat%20on%20Discord&color=7289DA&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on Discord" />
+  </a>
+  <a href="mailto:fahima.info03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email%20me&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Email me at fahima.info03@gmail.com" />
+  </a>
+  <a href="https://wa.me/your-whatsapp-number" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=Chat%20on%20WhatsApp&color=25D366&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on WhatsApp" />
+  </a>
+  <a href="https://www.facebook.com/your-facebook-profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=Follow%20me%20on%20Facebook&color=1877F2&logoColor=white&style=for-the-badge" height="40" alt="Follow me on Facebook" />
+  </a>
+</div>
+
+
+
+
+
+
 
 <div align="center">
  <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
@@ -50,7 +78,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
 </a>
 
-         <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
+         <a href="" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 
@@ -62,10 +90,6 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
 </a>
 
-    <a href="" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-</a>
-  
 </div>
 
 ###
