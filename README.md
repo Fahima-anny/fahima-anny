@@ -110,10 +110,10 @@
 
 ###
 
-<div align="center">
+<div align="center"  style="padding-top: 80px;">
 
 ###
-  <h2  style="padding-top: 80px;"> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
+  <h2 > My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fahima-anny&show_icons=true&theme=gotham" alt="fahima-anny" />
   
