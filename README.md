@@ -43,7 +43,7 @@
   <a href="https://x.com/AnnyFahima2021" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Follow%20me%20on%20Twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="40" alt="Follow me on Twitter" />
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="https://discord.com/users/fahimaakter_57954" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Chat%20on%20Discord&color=7289DA&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on Discord" />
   </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fahima.info03@gmail.com" target="_blank">
