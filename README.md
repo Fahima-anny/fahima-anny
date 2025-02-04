@@ -117,6 +117,9 @@
  <img src="https://github-readme-stats.vercel.app/api?username=fahima-anny&show_icons=true&theme=gotham" alt="fahima-anny" width="450" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahima-anny&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=gotham&hide_border=false" height="190" alt="languages graph"  />
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fahima-anny)]
+  
 </div>
 
 
