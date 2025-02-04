@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋! !  Welcome to my Github Profile</h2>
+<h2 align="center">Hi there 👋! !  Welcome to my Github Profile</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="left">Fahima  Anny   - Frontend Web Developer</h1>
+<h1 align="center">Fahima  Anny   - Frontend Web Developer</h1>
 
 ###
 
