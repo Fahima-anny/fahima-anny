@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">Fahima  Anny   - Frontend Web Developer</h1>
+<h1 align="center">Fahima  Anny   - Frontend Developer</h1>
 
 ###
 
