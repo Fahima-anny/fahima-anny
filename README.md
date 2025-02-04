@@ -119,7 +119,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahima-anny&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=gotham&hide_border=false" height="190" alt="languages graph"  />
 
 <a href="https://github.com/fahima-anny">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=fahima-anny&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fahima-anny&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Streak" />
 </div>
 
 
