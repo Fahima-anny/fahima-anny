@@ -120,7 +120,7 @@
 ###
 
 <div align="center">
-    <a href="https://wa.me/+8801601-608603" target="_blank">
+    <a href="https://wa.me/+8801601608603" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=Chat%20on%20WhatsApp&color=25D366&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
