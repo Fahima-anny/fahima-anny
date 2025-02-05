@@ -16,6 +16,26 @@
 
 
 ###
+<h3 align="left">About Me</h3>
+
+
+###
+
+<p align="left">Hi, I'm a passionate developer from Bangladesh. I enjoy building creative web applications and exploring new technologies to solve real-world problems.  When I code I can feel my inner self. The continuous ups and downs keeps me attached to this passion, As I always loved to explore new things .<br>
+
+
+  
+###
+  
+ - 🌱 I’m currently exploring **Next js.**.  
+ - 🌐 I’m working on a **MERN-stack Website**.  
+ - 🚀 Open to collaborating on exciting projects.
+ - 📫 Reach me at **fahima.info03@gmail.com**
+ - 📞 Contact me at **+880 16016 08603**
+</p>
+
+
+###
 
 <h2 align="center">My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
@@ -92,24 +112,6 @@
 
 
 
-###
-<h3 align="left">About Me</h3>
-
-
-###
-
-<p align="left">Hi, I'm a passionate developer from Bangladesh. I enjoy building creative web applications and exploring new technologies to solve real-world problems.  When I code I can feel my inner self. The continuous ups and downs keeps me attached to this passion, As I always loved to explore new things .<br>
-
-
-  
-###
-  
- - 🌱 I’m currently exploring **Next js.**.  
- - 🌐 I’m working on a **MERN-stack Website**.  
- - 🚀 Open to collaborating on exciting projects.
- - 📫 Reach me at **fahima.info03@gmail.com**
- - 📞 Contact me at **+880 16016 08603**
-</p>
 
 
 
