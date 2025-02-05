@@ -14,54 +14,6 @@
 ###
 <p align="center"> <a href="https://github.com/fahima-anny/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahima-anny&row=1&column=6&theme=onedark" alt="fahima-anny" /></a> </p>
 
-###
-<h3 align="left">About Me</h3>
-
-
-###
-
-<p align="left">Hi, I'm a passionate developer from Bangladesh. I enjoy building creative web applications and exploring new technologies to solve real-world problems.  When I code I can feel my inner self. The continuous ups and downs keeps me attached to this passion, As I always loved to explore new things .<br>
-
-
-  
-###
-  
- - 🌱 I’m currently exploring **Next js.**.  
- - 🌐 I’m working on a **MERN-stack Website**.  
- - 🚀 Open to collaborating on exciting projects.
- - 📫 Reach me at **fahima.info03@gmail.com**
- - 📞 Contact me at **+880 16016 08603**
-</p>
-
-
-
-<h2 align="center">Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-
-###
-
-<div align="center">
-    <a href="https://wa.me/+880 1601-608603" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=Chat%20on%20WhatsApp&color=25D366&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/fahima.akter.577750/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=Follow%20me%20on%20Facebook&color=1877F2&logoColor=white&style=for-the-badge" height="40" alt="Follow me on Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20on%20LinkedIn&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="Connect with me on LinkedIn" />
-  </a>
-  <a href="https://x.com/AnnyFahima2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Follow%20me%20on%20Twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="40" alt="Follow me on Twitter" />
-  </a>
-  <a href="https://discord.com/users/fahimaakter_57954" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Chat%20on%20Discord&color=7289DA&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on Discord" />
-  </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=fahima.info03@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email%20me&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Email me at fahima.info03@gmail.com" />
-</a>
-
-</div>
-
-
 
 ###
 
@@ -119,6 +71,58 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
+
+
+###
+<h3 align="left">About Me</h3>
+
+
+###
+
+<p align="left">Hi, I'm a passionate developer from Bangladesh. I enjoy building creative web applications and exploring new technologies to solve real-world problems.  When I code I can feel my inner self. The continuous ups and downs keeps me attached to this passion, As I always loved to explore new things .<br>
+
+
+  
+###
+  
+ - 🌱 I’m currently exploring **Next js.**.  
+ - 🌐 I’m working on a **MERN-stack Website**.  
+ - 🚀 Open to collaborating on exciting projects.
+ - 📫 Reach me at **fahima.info03@gmail.com**
+ - 📞 Contact me at **+880 16016 08603**
+</p>
+
+
+
+<h2 align="center">Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+
+###
+
+<div align="center">
+    <a href="https://wa.me/+880 1601-608603" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=Chat%20on%20WhatsApp&color=25D366&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on WhatsApp" />
+  </a>
+  <a href="https://www.facebook.com/fahima.akter.577750/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=Follow%20me%20on%20Facebook&color=1877F2&logoColor=white&style=for-the-badge" height="40" alt="Follow me on Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/fahima-akter-web-developer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20on%20LinkedIn&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="Connect with me on LinkedIn" />
+  </a>
+  <a href="https://x.com/AnnyFahima2021" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Follow%20me%20on%20Twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="40" alt="Follow me on Twitter" />
+  </a>
+  <a href="https://discord.com/users/fahimaakter_57954" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Chat%20on%20Discord&color=7289DA&logoColor=white&style=for-the-badge" height="40" alt="Chat with me on Discord" />
+  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=fahima.info03@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email%20me&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Email me at fahima.info03@gmail.com" />
+</a>
+
+</div>
+
+
+
+
 
 ###
 
