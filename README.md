@@ -12,7 +12,11 @@
 
 
 ###
-<p align="center"> <a href="https://github.com/fahima-anny/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahima-anny&row=1&column=6&theme=onedark" alt="fahima-anny" /></a> </p>
+<p align="center">
+  <a href="https://github.com/fahima-anny/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fahima-anny&theme=onedark&no-bg=true&column=3&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,A,AAA&title=Stars,Commits,Repositories" alt="fahima-anny" />
+  </a>
+</p>
 
 
 ###
