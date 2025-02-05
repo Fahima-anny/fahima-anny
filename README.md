@@ -73,6 +73,25 @@
 </div>
 
 
+
+
+###
+
+<div align="center"  >
+
+  <h2 > My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=fahima-anny&show_icons=true&theme=gotham" alt="fahima-anny" width="450" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahima-anny&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=gotham&hide_border=false" height="190" alt="languages graph"  />
+
+<a href="https://github.com/fahima-anny">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fahima-anny&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Streak" />
+</div>
+
+
+
+
 ###
 <h3 align="left">About Me</h3>
 
@@ -118,24 +137,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email%20me&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Email me at fahima.info03@gmail.com" />
 </a>
 
-</div>
-
-
-
-
-
-###
-
-<div align="center"  >
-
-  <h2 > My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
-
- <img src="https://github-readme-stats.vercel.app/api?username=fahima-anny&show_icons=true&theme=gotham" alt="fahima-anny" width="450" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahima-anny&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=gotham&hide_border=false" height="190" alt="languages graph"  />
-
-<a href="https://github.com/fahima-anny">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=fahima-anny&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Streak" />
 </div>
 
 
