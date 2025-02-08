@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/qL2xZxFF/Yellow-and-Blue-Bold-Marketing-Agency-with-Hexagon-Frame-Linked-In-Banner.png"  />
+  <img src="https://i.ibb.co.com/qL2xZxFF/Yellow-and-Blue-Bold-Marketing-Agency-with-Hexagon-Frame-Linked-In-Banner.png"  />
 </div>
 
 ###
