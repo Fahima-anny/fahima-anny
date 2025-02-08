@@ -32,7 +32,7 @@
  - 🌐 I’m working on a **MERN-stack Website**.  
  - 🚀 Open to collaborating on exciting projects.
  - 📫 Reach me at **fahima.info03@gmail.com**
- - 📞 Contact me at **+880 16016 08603**
+ - 📞 Contact me at **+880 16016 08603** (What's app)
 </p>
 
 
